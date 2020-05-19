@@ -29,6 +29,7 @@ a:hover{
   height: 2px;
 }
 
+/* profile */
 .profile {
   margin-top:50px;
 }
@@ -54,7 +55,10 @@ a:hover{
   font-weight: 400;
   font-size: 37px;
 }
-
+.profile .social-media ul li{
+ font-size:21px;
+ margin-right: 10px;
+}
 .profile .about {
   font-size: 15px;
   color: #232323;
